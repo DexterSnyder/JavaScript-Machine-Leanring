@@ -1,0 +1,7 @@
+K-Nearest Neighbor (knn)
+	"Birds of a feather flock together"
+	Classification function
+	plinko
+
+
+

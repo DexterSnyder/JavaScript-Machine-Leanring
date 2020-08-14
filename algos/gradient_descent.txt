@@ -1,0 +1,1 @@
+Mean squared error is used to determine how good our guess is
